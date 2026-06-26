@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 ## Sliding Window
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
