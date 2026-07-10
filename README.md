@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -63,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
