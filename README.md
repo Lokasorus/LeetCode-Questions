@@ -83,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1922-count-good-numbers) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
