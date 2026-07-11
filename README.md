@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0006-zigzag-conversion) |
 | [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
