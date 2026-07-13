@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0282-expression-add-operators) |
