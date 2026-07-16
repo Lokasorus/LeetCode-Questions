@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0040-combination-sum-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0079-word-search) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0282-expression-add-operators) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
