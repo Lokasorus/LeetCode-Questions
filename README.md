@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0688-knight-probability-in-chessboard](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0688-knight-probability-in-chessboard) |
 ## Backtracking
 |  |
 | ------- |
