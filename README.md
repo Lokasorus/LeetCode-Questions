@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [2105-watering-plants-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [2105-watering-plants-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [2105-watering-plants-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 <!---LeetCode Topics End-->
