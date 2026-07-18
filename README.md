@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0282-expression-add-operators](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0282-expression-add-operators) |
+| [0556-next-greater-element-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [1922-count-good-numbers](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0556-next-greater-element-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [2105-watering-plants-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 ## Binary Search
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0282-expression-add-operators) |
+| [0556-next-greater-element-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
