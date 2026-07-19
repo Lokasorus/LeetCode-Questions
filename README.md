@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0282-expression-add-operators](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 | [1922-count-good-numbers](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## String
 |  |
