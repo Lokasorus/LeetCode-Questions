@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -130,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2105-watering-plants-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
