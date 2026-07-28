@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
+| [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0282-expression-add-operators](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
+| [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0688-knight-probability-in-chessboard](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0688-knight-probability-in-chessboard) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
+| [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Backtracking
@@ -160,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 ## Breadth-First Search
 |  |
