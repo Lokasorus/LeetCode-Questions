@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0765-couples-holding-hands) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Union-Find
 |  |
 | ------- |
