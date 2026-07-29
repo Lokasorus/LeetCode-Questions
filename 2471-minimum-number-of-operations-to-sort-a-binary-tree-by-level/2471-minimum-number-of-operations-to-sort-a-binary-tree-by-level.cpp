@@ -12,31 +12,28 @@
 class Solution {
 public:
 int swaps(vector<int>& temp){
-    map<int, int> mpp;
+    int ans=0;
     int n = temp.size();
-
-    vector<int> arr = temp;
+    vector<pair<int, int>> arr;
+    for(int i = 0; i<temp.size(); i++){
+        arr.push_back({temp[i], i});
+    }
     sort(arr.begin(), arr.end());
-    for(int i = 0; i<arr.size(); i++){
-        mpp[arr[i]] = i;
-    }
-    int cnt = 0;
     vector<int> vis(n, 0);
-    for(int i = 0; i<n; i++){
-        if(!vis[i]){
-            int start = i;
-            vis[start] = 1;
-            while(mpp[temp[start]]!=i){
-                
-                start = mpp[temp[start]];
-                vis[start] = 1;
-                cnt++;
+    for(int i = 0; i<arr.size(); i++){
+        if(vis[i] || arr[i].second == i) continue;
 
-
-            }
+        int j = i;
+        int cnt = 0;
+        while(!vis[j]){
+            vis[j] = 1;
+            j = arr[j].second;
+            cnt++;
+            
         }
+        ans += cnt-1;
     }
-    return cnt;
+    return ans;
 
 
 }
