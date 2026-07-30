@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2105-watering-plants-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [2105-watering-plants-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0765-couples-holding-hands) |
+## Enumeration
+|  |
+| ------- |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
