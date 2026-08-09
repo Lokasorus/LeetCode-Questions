@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0282-expression-add-operators) |
