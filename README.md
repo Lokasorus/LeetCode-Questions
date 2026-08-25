@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2105-watering-plants-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -57,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [2105-watering-plants-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Recursion
 |  |
 | ------- |
@@ -128,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
 | ------- |
