@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
 | [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0688-knight-probability-in-chessboard) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
 | [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
