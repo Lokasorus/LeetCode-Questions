@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0413-arithmetic-slices](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0413-arithmetic-slices) |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
 | [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0413-arithmetic-slices](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0413-arithmetic-slices) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
 ## Sorting
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0413-arithmetic-slices](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0413-arithmetic-slices) |
 | [0688-knight-probability-in-chessboard](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0688-knight-probability-in-chessboard) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
 | [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
