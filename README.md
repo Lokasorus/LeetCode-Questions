@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2105-watering-plants-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
