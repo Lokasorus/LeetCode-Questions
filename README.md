@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
+| [1201-ugly-number-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1201-ugly-number-iii) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [1201-ugly-number-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1201-ugly-number-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -219,4 +221,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0879-profitable-schemes) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1201-ugly-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1201-ugly-number-iii) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
