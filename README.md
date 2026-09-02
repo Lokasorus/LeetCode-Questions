@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0413-arithmetic-slices) |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0879-profitable-schemes](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0879-profitable-schemes) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
 | [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Bucket Sort
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0893-groups-of-special-equivalent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
