@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0079-word-search) |
 | [0765-couples-holding-hands](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0765-couples-holding-hands) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0765-couples-holding-hands) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Union-Find
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0765-couples-holding-hands) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Enumeration
 |  |
 | ------- |
@@ -249,4 +252,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1201-ugly-number-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
