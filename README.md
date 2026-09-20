@@ -264,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
