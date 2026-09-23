@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0879-profitable-schemes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0413-arithmetic-slices](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0413-arithmetic-slices) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0853-car-fleet) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Bucket Sort
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0282-expression-add-operators](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1201-ugly-number-iii) |
 | [1406-stone-game-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1406-stone-game-iii) |
