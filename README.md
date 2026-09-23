@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0413-arithmetic-slices](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0413-arithmetic-slices) |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [0853-car-fleet](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0853-car-fleet) |
 | [0879-profitable-schemes](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0879-profitable-schemes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0978-longest-turbulent-subarray](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0978-longest-turbulent-subarray) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0621-task-scheduler](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0621-task-scheduler) |
+| [0853-car-fleet](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0853-car-fleet) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -284,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1934-confirmation-rate) |
+## Stack
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0853-car-fleet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0853-car-fleet](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
