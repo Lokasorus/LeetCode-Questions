@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Lokasorus/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0765-couples-holding-hands) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Lokasorus/LeetCode-Questions/tree/master/0765-couples-holding-hands) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Lokasorus/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Lokasorus/LeetCode-Questions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Enumeration
 |  |
 | ------- |
